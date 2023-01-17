@@ -1,5 +1,5 @@
 # Data Exploration and Dashboard on sales of Sweet shop
-Sales Data Exploration and Dashboard of Sweet shop in excel 
+Sales Data Exploration and extract astounding insight Dashboard of Sweet shop in excel 
 1. Region wise sales
 2. Top ten customer
 3. Month and yr wise sales
